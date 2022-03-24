@@ -1,7 +1,7 @@
 Ceci est le README du jeu "sheep game" par Arthur Delignette et Antoine Cavaco.
 
 Pour pouvoir jouer au jeu, il faut placer toutes les images contenues dans le dossier média,
-à la racine du projet à côté du .exe.
+à la racine du projet à côté de SheepGame.exe.
 
 Ensuite pour le lancer il suffit d'executer la ligne de commande : 
 .\SheepGame.exe nombre_de_moutons nombre_de_loups temps_de_jeu
